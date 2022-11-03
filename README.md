@@ -1,9 +1,6 @@
 # esg_return_correlation
-##### Sogang University - Financial Big Data Analysis using Python - Team Project
-##### 기업 ESG 요소와 수익률 간의 상관관계에 관한 빅데이터 분석 - 한국기업지배구조원의 평가지표 기준
+##### Sogang University - Financial Big Data Analysis using Python
+##### Correlation Analysis of ESG Index and Corporate Return (Python)!
+•	Crawled ESG Index data of 500+ Korean companies, and relevant corporate return data using yfinance module
+•	Explored, visualized the relationship between ESG Index and stock price by applying machine learning tools such as KMeans clustering, PCA, and TSNE
 
-* 김병국
-* 오성주
-* 이자원
-* 장민준
-* 정혜리
